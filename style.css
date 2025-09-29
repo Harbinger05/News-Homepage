@@ -31,7 +31,6 @@ body {
     font-weight: 500;
 }
 
-
 .header ul li:hover {
     transition: all 0.3s ease;
     color: hsl(5, 85%, 63%);
@@ -46,6 +45,7 @@ body {
 
 .web-img img {
     width: 100%;
+    height: 100%;
 }
 
 .new-sec {
